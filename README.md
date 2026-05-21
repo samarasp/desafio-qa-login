@@ -17,6 +17,8 @@ Demonstrar conhecimentos básicos sobre documentação e processos de teste de s
 
 ## Estrutura
 
+## Estrutura
+
 desafio-qa-login/
 │
 ├── README.md
