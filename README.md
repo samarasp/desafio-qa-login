@@ -19,6 +19,9 @@ Demonstrar conhecimentos básicos sobre documentação e processos de teste de s
 
 ## Estrutura
 
+## Estrutura
+
+```text
 desafio-qa-login/
 │
 ├── README.md
@@ -28,3 +31,4 @@ desafio-qa-login/
     ├── 03-mind-map.pdf
     ├── 04-casos-step-by-step.pdf
     └── 05-casos-bdd.pdf
+```
