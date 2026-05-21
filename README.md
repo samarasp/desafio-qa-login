@@ -17,10 +17,6 @@ Demonstrar conhecimentos básicos sobre documentação e processos de teste de s
 
 ## Estrutura
 
-## Estrutura
-
-## Estrutura
-
 ```text
 desafio-qa-login/
 │
